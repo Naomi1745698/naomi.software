@@ -2,12 +2,7 @@
 
 This page is available at http://www.naomi.software/
 
-This page will later be used to present:
-- My past experience / work experience
-- Any awards / achievements
-- Volunteer work
-- Personal Projects through GitHub
-- How to contact me
+This page will later be used to trial any code which can later be hosted privately (for work-related security reasons)
 
 Please come back later for more details!
 
